@@ -8,28 +8,26 @@ Save & Export: Save drawings as high-resolution PNG images.
 Clear Canvas: Clear the canvas with a single button.
 Modern UI: Attractive, visually appealing interface with hover effects, gradient buttons, and a dark theme.
 Requirements
-Python 3.x
+Python 3.12
 Tkinter (comes pre-installed with Python)
 Pillow (PIL library)
 You can install Pillow via pip if not already installed:
 
-bash
-Copy code
+
 pip install pillow
+
 Installation
 Clone or download the repository to your local machine.
 
-Make sure you have Python 3.x installed.
+Make sure you have Python 3.12 installed.
 
 Install the required Python packages using pip:
 
-bash
-Copy code
+
 pip install pillow
 Run the application by executing the Python script:
-bash
-Copy code
 python drawing_app.py
+
 Usage
 Brush Color: Click the "Brush Color" button to open a color picker and choose your desired color.
 Brush Size: Adjust the brush size using the slider for more fine control over your strokes.
